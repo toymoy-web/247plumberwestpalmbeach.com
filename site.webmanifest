@@ -1,0 +1,11 @@
+{
+  "name": "West Palm Beach 24/7 Plumbing",
+  "short_name": "WPB 24/7 Plumbing",
+  "display": "browser",
+  "theme_color": "#E8621E",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

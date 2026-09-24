@@ -1,0 +1,2 @@
+# Cloudflare Pages resolves clean/extensionless URLs and directory index files
+# natively. Intentionally empty — do not add 200/301 rules here (see build-standards.md).
