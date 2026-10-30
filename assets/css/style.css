@@ -319,3 +319,9 @@ body .note.note{color:var(--gray);font-size:16px;max-width:760px;margin-top:14px
 
 body .st553a.st553a{margin-top:14px}
 body .sta650.sta650{font-size:24px;margin-top:32px;color:var(--ink)}
+
+/* v13 footer social */
+footer .social{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:10px 22px;border-top:1px solid var(--line);padding-top:22px}
+footer .social h2{margin:0 6px 0 0;font-size:16px}
+footer .social a{display:inline-block;margin:0;font-weight:600;color:var(--ember-d);padding:6px 0}
+@media(max-width:900px){footer .social{gap:6px 18px}}
